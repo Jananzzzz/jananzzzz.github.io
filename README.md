@@ -1,4 +1,4 @@
-[About Me](./Aboutme.md)
+[About Me](./aboutme.md)
 
 ## 混沌系统
 
