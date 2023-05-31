@@ -2,4 +2,4 @@
 - [Blog](https://jananzzzz.github.io)
 - [Twitter](https://twitter.com/fananshi)
 - [CV]()
-- **Email**: bangzhubieren18@gmail.com
+- bangzhubieren18@gmail.com
