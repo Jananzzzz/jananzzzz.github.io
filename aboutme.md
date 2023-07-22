@@ -1,6 +1,6 @@
 - [GitHub](https://github.com/jananzzzz)
 - [Blog](https://jananzzzz.github.io)
-- [Twitter](https://twitter.com/fananshi)
+- [Twitter](https://twitter.com/)
 - [CV](https://jananzzzz.github.io/cv.pdf)
 - bangzhubieren18@gmail.com
 
