@@ -15,4 +15,5 @@
 - Most admired person? > *Not to tell now*
 - Favorite animal? > *Cat. As mentioned above.*
 - Some hobbies? > *Surfing the Internet. Watching YouTube videos (I am a full-time YouTube watcher ^^) and shit-posting on Twitter (currenly not public my twitter account due to too many controversial statements lol).*
+- Where are you active? > *YouTube, Twitter, Zhihu, Instagram, Threads*
 - ...
