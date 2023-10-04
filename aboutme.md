@@ -17,3 +17,6 @@
 - **Some hobbies?** > *Surfing the Internet. Watching YouTube videos (I am a full-time YouTube watcher ^^) and shit-posting on Twitter (currenly not public my twitter account due to too many controversial statements lol).*
 - **Where are you active?** > *YouTube, Twitter, Zhihu, Instagram, Threads*
 - ...
+
+<hr style="border:none; background-color:rgb(245,246,247); height:2px;">
+Copyright © 2023 Janan Zhu. All Rights Reserved.

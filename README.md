@@ -189,5 +189,5 @@ The benefits of exercise are very obvious:
 
 我坚信，在未来信息继续爆炸、信息公开度越来越高的某个时间点，互联网会成为共产主义的沃土，最终培育出真正的共产主义。
 
-##
+<hr style="border:none; background-color:rgb(245,246,247); height:2px;">
 Copyright © 2023 Janan Zhu. All Rights Reserved.
