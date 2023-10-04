@@ -188,3 +188,6 @@ The benefits of exercise are very obvious:
 在互联网上, github, stackobverflow, 各种汉化组和免费的开源软件...这些都是互联网上来自世界各地的善良美好的人们所创建的，而且几乎是完全的无私奉献。这些互联网上的资源，不仅领域广泛，而且数量巨大。可以说，互联网上已经产生了无数个共产主义社区。
 
 我坚信，在未来信息继续爆炸、信息公开度越来越高的某个时间点，互联网会成为共产主义的沃土，最终培育出真正的共产主义。
+
+##
+Copyright © 2023 Janan Zhu. All Rights Reserved.
