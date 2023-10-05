@@ -3,7 +3,7 @@
 - [Twitter](https://twitter.com/)
 - [Instagram](https://www.instagram.com/janan0927)
 - [Threads](https://threads.net/@janan0927)
-- bangzhubieren18 at gmail dot com
+- [Mail](mailto:bangzhubieren18@gmail.com)
 - [Cats](https://www.google.com/search?q=cats&tbm=isch)
 - [Links](./links.md)
 
