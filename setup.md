@@ -24,3 +24,6 @@ two cup, one for coffee/milk, one for water.
 mac, for coding and writing.
 
 <img src="./assets/mac.jpeg" width="30%">
+
+<hr style="border:none; background-color:rgb(245,246,247); height:2px;">
+Copyright © 2023 Janan Zhu. All Rights Reserved.
