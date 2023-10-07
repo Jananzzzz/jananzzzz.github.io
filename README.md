@@ -5,6 +5,7 @@
 - [Threads](https://threads.net/@janan0927)
 - [Mail](mailto:bangzhubieren18@gmail.com)
 - [Cats](https://www.google.com/search?q=cats&tbm=isch)
+- [Setup](setup.md)
 - [Links](./links.md)
 
 
