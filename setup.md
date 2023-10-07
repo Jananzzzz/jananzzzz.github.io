@@ -6,7 +6,7 @@ My daily carry:
 
 iPhone
 
-<img src="./assets/phone.jpeg" width="30%">
+<img src="./assets/phone.jpg" width="30%">
 
 airpods pro，I love music and podcasts.
 
