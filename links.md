@@ -9,6 +9,7 @@ I will add more links if I remember.
 - [near's blog](https://near.blog/)
 - [latepost](https://www.latepost.com/)
 - [SamAltman's blog](https://blog.samaltman.com/)
+- [Fields - PapersWithCode](https://paperswithcode.com/sota)
 - [How to ask questions?](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [JasonWei's blog](https://www.jasonwei.net/blog)
 - [KilledByGoogle](https://killedbygoogle.com/)
