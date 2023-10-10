@@ -18,3 +18,4 @@ I will add more links if I remember.
 - [GFW Report](https://gfw.report/)
 - [KeenAGI](https://keenagi.com/)
 - [Food Index](https://zh.wikipedia.org/wiki/%E8%83%B0%E5%B2%9B%E7%B4%A0%E6%8C%87%E6%95%B0)
+- [Imagination](https://www.zhihu.com/question/266668858)
