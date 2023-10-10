@@ -16,4 +16,5 @@ I will add more links if I remember.
 - [KilledByGoogle](https://killedbygoogle.com/)
 - [Forward-Forward Algorithm](https://arxiv.org/pdf/2212.13345.pdf)
 - [GFW Report](https://gfw.report/)
+- [KeenAGI](https://keenagi.com/)
 - [Food Index](https://zh.wikipedia.org/wiki/%E8%83%B0%E5%B2%9B%E7%B4%A0%E6%8C%87%E6%95%B0)
