@@ -10,7 +10,7 @@ I will add more links if I remember.
 - [Latepost](https://www.latepost.com/)
 - [SamAltman's blog](https://blog.samaltman.com/)
 - [Fields - PapersWithCode](https://paperswithcode.com/sota)
-- [LiLianWei's Blog](https://lilianweng.github.io/)
+- [LiLianWeng's Blog](https://lilianweng.github.io/)
 - [JasonWei's Blog](https://www.jasonwei.net/blog)
 - [How to ask questions?](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [KilledByGoogle](https://killedbygoogle.com/)
