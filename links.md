@@ -12,6 +12,7 @@ I will add more links if I remember.
 - [Fields - PapersWithCode](https://paperswithcode.com/sota)
 - [LiLianWeng's Blog](https://lilianweng.github.io/)
 - [JasonWei's Blog](https://www.jasonwei.net/blog)
+- [AlphaGo](https://youtu.be/WXuK6gekU1Y?si=KWByKBIr98Z6kCWg)
 - [How to ask questions?](http://www.catb.org/~esr/faqs/smart-questions.html)
 - [KilledByGoogle](https://killedbygoogle.com/)
 - [Forward-Forward Algorithm](https://arxiv.org/pdf/2212.13345.pdf)
