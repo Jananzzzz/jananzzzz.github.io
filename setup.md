@@ -12,7 +12,7 @@ airpods pro，I love music and podcasts.
 
 <img src="./assets/airpodspro.jpeg" width="30%">
 
-a watch, which I occasionally wear, mainly for timing when I run.
+a watch, mainly for timing when I run.
 
 <img src="./assets/watch.jpeg" width="30%">
 
