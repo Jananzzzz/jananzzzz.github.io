@@ -5,8 +5,8 @@
 - 各类网站。 各种我常逛的网站和论坛，hacker news，zhihu, twitter 等等。
 - 论文。 一般是有想法再去找相关的 paper 看，或者偶然遇到感兴趣的或者名人的 paper.
 - Mailing list. 较少。
-- podcast 主要是晚上睡觉前和晒太阳的时候听，常听的有 lex fridman 和 huberman lab 的。
-- 聊天 我特别喜欢聊天，和同学，好友，学长学姐，twitter 网友聊天。
+- podcast. 主要是晚上睡觉前和晒太阳的时候听，常听的有 lex fridman 和 huberman lab 的。
+- 聊天。 我特别喜欢聊天，和同学，好友，学长学姐，twitter 网友聊天。
 
 ## 我为什么不写技术博客
 直白一点，从我的经验出发，技术博客根本没人看。
