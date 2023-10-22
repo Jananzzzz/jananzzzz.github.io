@@ -16,7 +16,7 @@ a watch, mainly for timing when I run.
 
 <img src="./assets/watch.jpeg" width="30%">
 
-two cup, one for coffee/milk, one for water.
+two cup, one for coffee/milk, one for water/tea.
 
 <img src="./assets/cupforcoffee.jpeg" width="30%">
 <img src="./assets/cupformilk.jpeg" width="30%">
