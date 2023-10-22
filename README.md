@@ -1,6 +1,5 @@
 - [Blog](blog.md)
 - [GitHub](https://github.com/jananzzzz)
-- [Twitter](https://twitter.com/)
 - [Instagram](https://www.instagram.com/janan0927)
 - [Threads](https://threads.net/@janan0927)
 - [Mail](mailto:bangzhubieren18@gmail.com)
