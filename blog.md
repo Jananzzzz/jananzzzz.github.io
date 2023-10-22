@@ -2,7 +2,7 @@
 感觉自己兴趣比较广泛，CS，自然科学，政治，经济，人文，历史，数学，我都很感兴趣。
 - RSS. 每天早上起来的第一件事就是打开 Inoreader。我的 RSS 订阅多而广泛，包括各种时政科技（来自 bloomberg, cnn, nature的推送等等），每天大概能收到 1000 多条推送，大部分粗看。
 - YouTube. 这个不用解释了，单独拿出来，i graduate from youtube university :-)
-- 各类网站。 各种我常逛的网站和论坛，hacker news，zhihu, twitter 等等。
+- 各类网站。 各种我常逛的网站和论坛，hacker news，知乎, twitter 等等。
 - 论文。 一般是有想法再去找相关的 paper 看，或者偶然遇到感兴趣的或者名人的 paper.
 - Mailing list. 较少。
 - podcast. 主要是晚上睡觉前和晒太阳的时候听，常听的有 lex fridman 和 huberman lab 的。
