@@ -5,7 +5,7 @@
 - [Mail](mailto:bangzhubieren18@gmail.com)
 - [Cats](https://www.google.com/search?q=cats&tbm=isch)
 - [Setup](setup.md)
-- [Links](./links.md)
+- [Links](links.md)
 
 
 <hr style="height: 1px; background-color: #eaecef;">
