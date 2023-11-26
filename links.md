@@ -6,7 +6,7 @@ I will add more links if I remember.
 
 - [LessWrong](https://www.lesswrong.com/)
 - [HackerNews](https://hackernews.com/)
-- [Near's blog](https://near.blog/)
+- [Near's Blog](https://near.blog/)
 - [Latepost](https://www.latepost.com/)
 - [SamAltman's blog](https://blog.samaltman.com/)
 - [Fields - PapersWithCode](https://paperswithcode.com/sota)
@@ -27,3 +27,4 @@ I will add more links if I remember.
 - [雷军谈创业](https://youtu.be/cZgTCsOYaHI?si=SfHuDsXZikb-2eOB)
 - [PhD Candidate](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
+
